@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140083403109",
+    "project_id": "controle-de-okrs",
+    "storage_bucket": "controle-de-okrs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140083403109:android:b2b607c4e7bcf063c7e98c",
+        "android_client_info": {
+          "package_name": "com.hudsom.park_control_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvl6e8aMALTsiGBD9dJ6XrvO0rqMjIBy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
