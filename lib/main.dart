@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'routes/app_routes.dart';
 import 'services/auth_provider.dart';
-import 'packages/auth_package/auth_service.dart';
+import 'package:auth_package/auth_package.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 void main() async {
